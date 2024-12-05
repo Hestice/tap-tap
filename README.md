@@ -31,6 +31,23 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Deploy on Vercel
 
+This app is currently using vercel. It is auto deployed so the branches get checked. It will be useful to have linting and be mindful of typesafety :D
+
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## Contributing
+
+- To contribute to this repository, kindly do **feature branching**. 
+- branch out from either *main* or *development*, usually *development*
+```
+git checkout -b <name>/<short-descriptive-detail>
+```
+
+- do your stuff, work on the feature/ fix/ adjustment/ styling
+- commit and push, then create a pull request.
+- I will review your changes, so it would help a lot if you document it well.
+- when approved, merge.
+- get a beer or something XD
+ 
