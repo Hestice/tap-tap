@@ -37,6 +37,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
+
 ## Contributing
 
 - To contribute to this repository, kindly do **feature branching**. 
@@ -51,3 +52,11 @@ git checkout -b <name>/<short-descriptive-detail>
 - when approved, merge.
 - get a beer or something XD
  
+
+## Current Stack
+
+- NextJS
+- Tailwind
+- Framer motion
+- Shadcn ui 
+- Vercel 
